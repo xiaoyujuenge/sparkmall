@@ -11,7 +11,7 @@ import com.atguigu.sparkmall.mock.util.{RanOpt, RandomDate, RandomNum, RandomOpt
 import scala.collection.mutable.ListBuffer
 import org.apache.spark.sql._
 
-
+//
 
 object MockerOffline {
     
